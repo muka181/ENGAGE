@@ -299,6 +299,9 @@
     border-collapse: collapse; 
     border-spacing: 0; 
 } */
+.mainlist{
+    display:none;
+}
 footer{
     padding:20px;
     width:100vw;
